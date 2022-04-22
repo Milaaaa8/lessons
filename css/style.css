@@ -1,0 +1,111 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap&subset=cyrillic-ext");
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+html,
+body {
+	height: 100%;
+}
+html {
+	font-size: 16px; /* по умолчанию */
+}
+body {
+	line-height: 1;
+}
+.wrapper {
+	min-height: 100%;
+	max-width: 1400px;
+	overflow: hidden;
+	font-family: 'Poppins', sans-serif;
+}
+a{
+	color: black;
+}
+.menu{
+	display: inline-flex;
+	margin: 35px 160px 35px 152px;
+}
+span{
+	padding: 0px 150px 0px 0px;
+}
+.Projects{
+	padding: 0px 25px 0px 0px;
+}
+.About{
+	padding: 0px 25px 0px 0px;
+}
+.News{
+	padding: 0px 25px 0px 0px;
+}
+.Team{
+	padding: 0px 25px 0px 0px;
+}
+.Contact{
+	padding: 0px 25px 0px 0px;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+.header{
+	background-color: #ece7e476;
+	padding: 137px 111px 0px 100px;
+}
+.p{
+	font-size: 64px;
+	width: 400px;
+	height: 212px;
+	
+}
+.text{
+	width: 400px;
+	height: 120px;
+	
+}
+img{
+	position: absolute;
+height: 500px;
+left: 50%;
+right: 0%;
+top: 90px;
+}
+.firm{
+	margin: 96px 0px 0px 200px;
+}
+.koment{
+	font-size: 16px;
+	width: 493px;
+	height: 100px;
+	margin-left: 300px;
+}
+
